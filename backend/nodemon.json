@@ -1,0 +1,9 @@
+{
+    "watch": ["src"],
+    "ext": "ts,json",
+    "exec": "node --loader ts-node/esm --experimental-specifier-resolution=node src/server.ts",
+    "ignore": ["dist"],
+    "env": {
+      "NODE_ENV": "development"
+    }
+  }
