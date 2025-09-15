@@ -36,6 +36,13 @@ The app uses:
 
 ---
 
+Clone this repository locally and navigate into the project folders to run the backend and frontend:
+
+```bash
+git clone https://github.com/your-username/koast.ai-technical-challenge.git
+cd koast.ai-technical-challenge
+```
+
 ### Backend (Express + TypeScript)
 
 **Path:** `backend/`
